@@ -1,0 +1,11 @@
+{
+	"name" : "disable builder",
+	"description" : "disable builder",
+    "type" : "page",
+    "version" : "1.0",
+    "author" : "cicool",
+	"regid" : "disable-builder",
+	"loader" : [
+		"disable-builder.php"
+	]
+}

@@ -1,0 +1,30 @@
+.captcha-box {
+    padding: 5px 0;
+}
+
+.captcha-box input {
+    width: 30%;
+    border: 1px solid #E5E2E2;
+    padding: 5px;
+}
+
+.captcha-box img {
+    width: 55%;
+    float: right;
+}
+
+.required {
+    color: #D02727
+}
+
+.login-box-body {
+    border-top: 5px solid #D7320C;
+}
+
+.login-box-body {
+    border-top: 5px solid #D7320C;
+}
+
+.callout-error {
+    color: #C82626
+}

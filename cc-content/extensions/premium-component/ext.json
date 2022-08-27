@@ -1,0 +1,15 @@
+{
+	"name" : "Cicool premium component",
+	"description" : "cicool default compnent",
+	"type" : "page",
+    "version" : "1.0",
+    "author" : "cicool",
+    "regid" : "premium-component",
+	"routes" : [
+		"administrator/page/(:any)/(:any)",
+		"administrator/page/(:any)"
+	],
+	"loader" : [
+		"premium-component.php"
+	]
+}

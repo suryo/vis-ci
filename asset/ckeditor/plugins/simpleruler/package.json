@@ -1,0 +1,27 @@
+{
+  "name": "ckeditor-ruler",
+  "version": "1.3.3",
+  "description": "A simple ruler plugin for CKEditor",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovata/ckeditor-ruler.git"
+  },
+  "keywords": [
+    "ckeditor",
+    "ruler"
+  ],
+  "author": "Aleksandra Shinkevich <a.shinkevich@lovata.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lovata/ckeditor-ruler/issues"
+  },
+  "homepage": "https://github.com/lovata/ckeditor-ruler#readme",
+  "dependencies": {
+    "nouislider": "9.0.0",
+    "jquery": "*"
+  }
+}
